@@ -1,20 +1,20 @@
 ## Problem Understanding
-**What the problem is asking:** [Explain in your own words]
+**What the problem is asking:** [to change our text into some codewords by shifting a given letter into new one.]
 
-**Key concepts involved:** [List the main ideas/algorithms needed]
+**Key concepts involved:** [changing of given letter into some other.]
 
-**My approach:** [High-level strategy you chose]
+**My approach:** [to change given letter into another letter using ascii table values of letter.]
 
 ---
 
 ##  Conceptual Learning
 
 ### **New Concepts I Discovered**
-- **[Concept Name]:** [What it is and why it's useful]
-- **[Another Concept]:** [Brief explanation and application]
+- **[Concept Name]:** [ascii table, used it for pre-assigned specific number.]
+- **[Another Concept]:** [getline, to get the whole text without skipping the remaining sentence after space.]
 
 ### **How I Applied These Concepts**
-[Explain how you used the concepts to solve the problem]
+[i used ascii tables pre assigned values and made sure that even after the shift the total sum of the new number still lies in between guven range of numbers.]
 
 ### **Real-World Connections**
-[Where might you see this problem or similar concepts in real applications?]
+[it can be used to send a message with specific shift and thus message can go on without getting read by unwanted person.]
